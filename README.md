@@ -1,4 +1,4 @@
-# NicosJobs
+# Nico's Jobs
 
 A job board that pulls listings straight from company career sites and gives you
 one place to keep track of where you've applied.
